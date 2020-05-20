@@ -1,0 +1,52 @@
+{
+  "logs": [
+    {
+      "message": "Help fixing network!",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-05-19T21:20:34.163Z",
+      "id": 1
+    },
+    {
+      "message": "Wireless connection up and running!",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-05-19T21:20:53.615Z",
+      "id": 2
+    },
+    {
+      "message": "Help wanted urgently!",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-05-19T21:21:17.855Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Emil",
+      "lastName": "Bergqvist",
+      "id": 5
+    },
+    {
+      "firstName": "Sara",
+      "lastName": "Johnsson",
+      "id": 6
+    }
+  ]
+}
